@@ -1,5 +1,7 @@
 title: ACM-NITW
 description: Official Site for ACM-NITW Student Chapter
+github:
+  is_project_page: false
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
