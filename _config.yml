@@ -1,5 +1,5 @@
-github:
-  is_project_page: false
+title: ACM-NITW
+description: Official Site for ACM-NITW Student Chapter
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
