@@ -1,5 +1,7 @@
 ---
 layout: default
+title: ACM-NITW
+description: Official Site for ACM-NITW Student Chapter
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
